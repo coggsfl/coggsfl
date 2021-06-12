@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coggsfl
-- 👀 I’m a Software Engineering leader at Office Depot with a passion for building Microservice based applications on Kubernetes
+I’m a Software Engineering leader at Office Depot with a passion for building Microservice based applications on Kubernetes
 <!--
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ...
